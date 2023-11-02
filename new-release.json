@@ -4,7 +4,6 @@
     "pub_date": "2020-06-22T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
             "url": "https://github.com/simmslabs/tauri-gensys-pos/releases/download/2.6.1/GensysPOS_2.6.1_x64-setup.exe"
         }
     }
