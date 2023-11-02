@@ -1,10 +1,10 @@
 {
     "version": "v2.6.2",
     "notes": "Test version",
-    "pub_date": "2023-11-22T19:25:57Z",
+    "pub_date": "2023-11-02T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M00yejJnNFRhbk9EejBndktQazB3ZW5qVXJsVEkyZ21Yajk0c0lSeUpwSGsvVmlkZE9qelo0Nk1qUnJia1NTN0dqUTMwRlZQcUt1eUJ6Z1FSTW9DdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTU1NzQ2CWZpbGU6R2Vuc3lzUE9TXzIuNi4xX3g2NC1zZXR1cC5uc2lzLnppcApDVFk3TFVvZit3eFZ3eGhEcDBScS92aFRXSFd3S0ZZRlV1WVNzWVBSaE02Zkw1Y0NEZWFucGJTV3pKeHhxV1psdkw5dUJ2eDRpQXNkajFsNW5OK0hEQT09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M0F1VUd5TVZQVUVlMmNkSGF0VXBmVk5XUy9zRERSQWtHcjlWaDlNbDAzcFZsSUkxSDRpVzR2cXhtZlMvM0orUjNQby9zd3RkWFQyZ3VQZG00Q013VndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk4OTU3MTk0CWZpbGU6R2Vuc3lzUE9TXzIuNi4yX3g2NC1zZXR1cC5uc2lzLnppcAp1dHhDemM4SXE5T1B3K1Uwbi9Hb1l3ZmJ6Zkp5eUQ0Umc3V3FwQnpHQm1QenlSUHBwSnZMalZFcWh5dmNkR09URmpiYjllUG1UcCtkNGpUYzZRamlBQT09Cg==",
             "url": "https://github.com/simmslabs/gensys-pos/releases/download/2.6.2/GensysPOS_2.6.2_x64-setup.exe"
         }
     }
