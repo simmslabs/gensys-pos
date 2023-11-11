@@ -1,11 +1,11 @@
 {
-    "version": "v2.6.5",
-    "notes":"Fixed Puchase Invoice",
-    "pub_date": "2023-11-06T19:25:57Z",
+    "version": "v2.6.6",
+    "notes":"Fixed Sales Invoice List",
+    "pub_date": "2023-11-11T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M0VyZEhabnVnckFLa0RWMlhXS01DVktIYldQWjh0bDBzQ2dBcVBUcVd2RVNaMFhib1NNbWFRZEdhUHpOMWNocHc2Mmo5MythenI0bXlvYllkWlhMUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5MjAxODQ0CWZpbGU6R2Vuc3lzUE9TXzIuNi41X3g2NC1zZXR1cC5uc2lzLnppcApac2M0b25IQlRQZGJFWkhJb05QallZSlpTTEdQQTZaU25odGNCR3Z3QzlBSEx0b3kvc1lUbVpwdWhZdjlTS3RDZ0liWU94Qlc4dnpzYmJmOE9kSS9DQT09Cg==",
-            "url": "https://github.com/simmslabs/gensys-pos/releases/download/2.6.2/GensysPOS_2.6.5_x64-setup.nsis.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M1BsY1dNTER3ck42aEhMZU9vcE1BdUtYekNpY0Q4YjRtOW5CeGFQZFNmNE9xaCttUkRyRlhyaXVwbHBZK3NCT3ZGYVh1OXh3KzhVZmVZUE1ZNWpTMnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NjY2MTQzCWZpbGU6R2Vuc3lzUE9TXzIuNi42X3g2NC1zZXR1cC5uc2lzLnppcAovRExZTHRWZnFmdk1LRUt0L3lDZVczSlRpZzZROTJvclFmbCtFNlIxUmFRVEFiRW01eVFTOS9ERS9KeGFxZGFsZWFKbjZLZGdya0dRbzVST1h4NVhBQT09Cg==",
+            "url": "https://github.com/simmslabs/gensys-pos/releases/download/2.6.2/GensysPOS_2.6.6_x64-setup.nsis.zip"
         }
     }
 }
