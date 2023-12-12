@@ -1,11 +1,11 @@
 {
-    "version": "v2.6.6",
-    "notes":"Fixed Sales Invoice List",
-    "pub_date": "2023-11-11T19:25:57Z",
+    "version": "v3.0.12",
+    "notes":"Massive improvements",
+    "pub_date": "2023-12-11T19:25:57Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M1BsY1dNTER3ck42aEhMZU9vcE1BdUtYekNpY0Q4YjRtOW5CeGFQZFNmNE9xaCttUkRyRlhyaXVwbHBZK3NCT3ZGYVh1OXh3KzhVZmVZUE1ZNWpTMnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk5NjY2MTQzCWZpbGU6R2Vuc3lzUE9TXzIuNi42X3g2NC1zZXR1cC5uc2lzLnppcAovRExZTHRWZnFmdk1LRUt0L3lDZVczSlRpZzZROTJvclFmbCtFNlIxUmFRVEFiRW01eVFTOS9ERS9KeGFxZGFsZWFKbjZLZGdya0dRbzVST1h4NVhBQT09Cg==",
-            "url": "https://github.com/simmslabs/gensys-pos/releases/download/2.6.2/GensysPOS_2.6.6_x64-setup.nsis.zip"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZUkwWS9Mb1V1M0NnZDR3dTRseXRJQkFXWU4rZjJKYzNVSUY5YUYxRDJhcTBwM1dycldjNmlVeldnaXg1NUdsc1BhbFNSWGI5dkprS0hhdXRwelFRaEZMWHFDeUszcnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyMzU4MDY0CWZpbGU6Q2FydHJvbl8zLjAuMTJfeDY0LXNldHVwLm5zaXMuemlwClRmNmxPNHJPTGgzeGs4VWRJcmpibEJxSGlnT01Vd003RE9EZHBrVnZBMjFVbUNVYzBYdE5MUnhVNUt4bHNPclFzWUlyTk9QZ1JQT09FZG5JN2x3T0JRPT0K",
+            "url": "https://github.com/simmslabs/gensys-pos/releases/download/3.0.12/Cartron_3.0.12_x64-setup.nsis.zip"
         }
     }
 }
